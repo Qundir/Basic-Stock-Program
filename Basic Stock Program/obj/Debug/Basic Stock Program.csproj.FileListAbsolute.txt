@@ -8,3 +8,7 @@ C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Debug
 C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Debug\Basic Stock Program.csproj.CoreCompileInputs.cache
 C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Debug\Basic Stock Program.exe
 C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Debug\Basic Stock Program.pdb
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\bin\Debug\Basic Stock Program.exe.manifest
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\bin\Debug\Basic Stock Program.application
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Debug\Basic Stock Program.exe.manifest
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Debug\Basic Stock Program.application
