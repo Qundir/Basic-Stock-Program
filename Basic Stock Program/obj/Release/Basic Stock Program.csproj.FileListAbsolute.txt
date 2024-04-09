@@ -1,0 +1,14 @@
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\bin\Release\Basic Stock Program.exe.config
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\bin\Release\Basic Stock Program.exe.manifest
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\bin\Release\Basic Stock Program.application
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\bin\Release\Basic Stock Program.exe
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\bin\Release\Basic Stock Program.pdb
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Release\Basic_Stock_Program.Form1.resources
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Release\Basic_Stock_Program.Properties.Resources.resources
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Release\Basic Stock Program.csproj.GenerateResource.cache
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Release\Basic Stock Program.csproj.CoreCompileInputs.cache
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Release\Basic Stock Program.exe.manifest
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Release\Basic Stock Program.application
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Release\Basic Stock Program.exe
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Release\Basic Stock Program.pdb
+C:\Users\Gorillaz\source\repos\Basic Stock Program\Basic Stock Program\obj\Release\Basic Stock Program.csproj.AssemblyReference.cache
